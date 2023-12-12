@@ -6,4 +6,31 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Common\Helpers\" />
+    <Folder Include="Common\Exceptions\" />
+    <Folder Include="Common\Attributes\" />
+    <Folder Include="Common\Attributes\" />
+    <Folder Include="Common\Exceptions\" />
+    <Folder Include="Common\Helpers\" />
+    <Folder Include="Common\Validations\" />
+    <Folder Include="Common\Utils\" />
+    <Folder Include="Common\Security\" />
+    <Folder Include="Common\Validations\" />
+    <Folder Include="Common\Security\" />
+    <Folder Include="Common\Utils\" />
+    <Folder Include="Dtos\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Dtos\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="ViewModels\" />
+    <Folder Include="Services\" />
+    <Folder Include="ViewModels\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\QuizTime.DataAccess\QuizTime.DataAccess.csproj" />
+  </ItemGroup>
+
 </Project>
