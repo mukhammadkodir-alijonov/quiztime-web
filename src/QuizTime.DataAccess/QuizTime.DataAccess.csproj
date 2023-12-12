@@ -10,6 +10,10 @@
     <Folder Include="DbContext\" />
     <Folder Include="Interfaces\" />
     <Folder Include="Configurations\" />
+    <Folder Include="Configurations\" />
+    <Folder Include="DbContext\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Repositories\" />
     <Folder Include="Repositories\" />
   </ItemGroup>
 
