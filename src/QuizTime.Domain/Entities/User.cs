@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace QuizTime.Domain.Entities
 {
-    internal class User
+    internal class User 
     {
+        //salom
     }
 }
