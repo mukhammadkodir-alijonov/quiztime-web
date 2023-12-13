@@ -30,7 +30,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\QuizTime.DataAccess\QuizTime.DataAccess.csproj" />
+    <ProjectReference Include="..\QuizTime.DataAccess\QuizTime.DataAccesss.csproj" />
   </ItemGroup>
 
 </Project>
