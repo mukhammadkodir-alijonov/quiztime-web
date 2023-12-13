@@ -8,6 +8,6 @@ namespace QuizTime.Domain.Entities
 {
     internal class User 
     {
-        //salom
+        //salom dunyo
     }
 }
