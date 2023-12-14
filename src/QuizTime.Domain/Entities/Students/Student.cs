@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace QuizTime.Domain.Entities
+namespace QuizTime.Domain.Entities.Students
 {
-    internal class User 
+    public class Student : Person
     {
-        //salom dunyo
+        public int TestCount { get; set; }
     }
 }
