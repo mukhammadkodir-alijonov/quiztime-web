@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace QuizTime.Service.Common.Security
+﻿namespace QuizTime.Service.Common.Security
 {
     public class PasswordHasher
     {

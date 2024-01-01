@@ -3,12 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using QuizTime.Domain.Common;
 using QuizTime.Domain.Entities.Admins;
 using QuizTime.Service.Common.Attributes;
-using System;
-using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace QuizTime.Service.Dtos.Admins
 {

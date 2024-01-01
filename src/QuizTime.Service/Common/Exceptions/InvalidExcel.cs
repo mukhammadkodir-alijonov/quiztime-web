@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace QuizTime.Service.Common.Exceptions
+﻿namespace QuizTime.Service.Common.Exceptions
 {
     public class InvalidExcel : Exception
     {

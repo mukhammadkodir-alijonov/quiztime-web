@@ -1,11 +1,5 @@
 ﻿using QuizTime.Domain.Common;
 using QuizTime.Domain.Entities.Teachers;
-using QuizTime.Service.Dtos.File;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace QuizTime.Service.Dtos.Teachers
 {
